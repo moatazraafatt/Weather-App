@@ -62,14 +62,14 @@ function display1(finalResult, x) {
                             </div>
                         </div>
                         <div class="custom">${x.condition.text}</div>
-                        <span class="ms-3 text-light"><img src="./icon-umberella.png" class="me-1" alt="umberalla">${
+                        <span class="ms-3 text-light"><img src="./images/icon-umberella.png" class="me-1" alt="umberalla">${
                           x.humidity
                         }%</span>
-                        <span class="ms-3 text-light"><img src="./icon-wind.png" class="me-1" alt="wind">${
+                        <span class="ms-3 text-light"><img src="./images/icon-wind.png" class="me-1" alt="wind">${
                           x.wind_kph
                         }</span>
                         
-                        <span class="ms-3 text-light"><img src="./icon-compass.png" class="me-1" alt="compass">${
+                        <span class="ms-3 text-light"><img src="./images/icon-compass.png" class="me-1" alt="compass">${
                           x.wind_dir
                         }</span>
                     </div>  
